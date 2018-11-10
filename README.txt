@@ -1,4 +1,4 @@
-Authors: Angus Fung, Alvin Lee, Ryan You
+Authors: Angus Fung, Alvin Lee, Yoonsun You
 
 Please run on Python3.
 Report uploaded as a pdf.
